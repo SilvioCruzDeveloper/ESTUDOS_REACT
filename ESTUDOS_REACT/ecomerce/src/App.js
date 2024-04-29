@@ -5,7 +5,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img
+          src="https://media.tenor.com/N5fU8iyU9F4AAAAj/shigure-ui-dance.gif"
+          alt="logo"
+        />
         <h1>Primeiro App React</h1>
         <p>Hello Word</p>
         <a
