@@ -6,5 +6,4 @@ function ComponeteResumoSobreVoce(props) {
     </div>
   );
 }
-
 export { ComponeteResumoSobreVoce };

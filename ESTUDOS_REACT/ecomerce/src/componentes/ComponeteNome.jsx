@@ -1,6 +1,6 @@
 function ConponeteNome() {
   return (
-    <div>
+    <div className="minhaClase">
       <p>Nome: Silvio Cruz</p>
     </div>
   );
